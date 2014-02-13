@@ -1,4 +1,4 @@
-ider
+IDER
 ====
 
-Integrated Dmx and Ethernet Router
+Integrated DMX and Ethernet Router
