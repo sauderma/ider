@@ -16,6 +16,6 @@ The IDER Box uses all open-source software and commercially available hardware. 
 	<li><a href="http://beagleboard.org/Products/BeagleBone+Black" target="_blank">Beaglebone Black</a> for the computer.</li>
 	<li><a href="http://www.openlighting.org/" target="_blank">Open Lighting Architecture</a> for the underlying lighting protocol software.</li>
 </ul>
-All documentation needed to create your own IDER Box is available to the right. Development is expected to continue, so check back for more!
+All documentation needed to create your own IDER Box is available at <a href="http://www.iderbox.org">www.iderbox.org</a>. Development is expected to continue, so check back for more!
 
 &nbsp;
